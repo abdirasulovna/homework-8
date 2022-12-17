@@ -6,7 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+body{
+  background-image: "https://cdnn21.img.ria.ru/images/07e5/01/09/1592395508_390:484:3071:1992_1920x0_80_0_0_87b2b514d328dd67891be4c2e5a487f1.jpg";
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
